@@ -70,3 +70,9 @@ Pass-the-Hash with Mimikatz
 WinRM exploitation
 
 Persistence via backdoor accounts & Group Policy manipulation
+
+## 4. Findings & Analysis
+
+Identified misconfigurations and security risks
+
+Documented vulnerabilities and exploited weaknesses
