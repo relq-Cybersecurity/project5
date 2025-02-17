@@ -77,6 +77,9 @@ Identified misconfigurations and security risks
 
 Documented vulnerabilities and exploited weaknesses
 
+# what is AD
+
+Active Directory (AD) is a directory service used to manage users, computers, and other resources in a network. It organizes these elements using Organizational Units (OUs), Users, and Groups to apply policies, control access, and enhance security.
 
 ### Before proceeding
 .Must have an administrativ privilege on server
@@ -104,12 +107,47 @@ Documented vulnerabilities and exploited weaknesses
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-32-29.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-01%2016-48-30.png)
 
+# what is Organizational Units (OUs)
+
+An Organizational Unit (OU) is a container within Active Directory that helps organize users, groups, and computers. OUs allow administrators to manage and apply Group Policies to specific subsets of objects in AD.
+
 **How to create OU, User and Groups on Active Directory**
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-54-42.png)
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-03-30.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-06-31.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-07-01.png)
+
+# Users in Active Directory
+
+A User in AD represents an individual account that can log in and access resources based on assigned permissions.
+
+**Types of Users:**
+
+  **. Domain Users: Regular user accounts created in AD (e.g., employees)**
+
+  **. Administrator Users: Accounts with elevated privileges (e.g., Administrator)**
+
+  **. Service Accounts: Used by applications/services instead of humans**
+
+**Example:**
+
+  **jdoe@mydomain.local (Regular user)**
+
+  **admin@mydomain.local (Administrator user)**
+
+
+# Groups in Active Directory
+
+A Group is a collection of users that can be managed as a single unit. Instead of assigning permissions to individual users, they are assigned to groups for easier management.
+
+**Types of Groups:**
+
+  **. Security Groups: Used to assign permissions and access control**
+  
+  **. Distribution Groups: Used for email distribution (not for security)**
+  
+**Create Group and add users on it**
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-10-14.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-23-38.png)
