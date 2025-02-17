@@ -89,7 +89,9 @@ Documented vulnerabilities and exploited weaknesses
 
 .Change the Windows Server name according to your company's naming standart
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-32-29.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-43-31.png)
+
+
 
 .Install the Active Domain Services role
 
@@ -97,7 +99,7 @@ Documented vulnerabilities and exploited weaknesses
 
 .Promote the server to a Domain Controller
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-43-31.png)
-
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-32-29.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-01%2016-48-30.png)
 
 
