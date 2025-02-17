@@ -97,9 +97,19 @@ Documented vulnerabilities and exploited weaknesses
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-46-05.png)
 
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-48-22.png)
+
 .Promote the server to a Domain Controller
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-32-29.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-01%2016-48-30.png)
 
+**How to create OU, User and Groups on Active Directory**
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-54-42.png)
 
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-03-30.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-06-31.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-07-01.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-10-14.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-23-38.png)
