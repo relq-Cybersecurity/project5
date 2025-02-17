@@ -80,8 +80,11 @@ Documented vulnerabilities and exploited weaknesses
 
 ### Before proceeding
 .Must have an administrativ privilege on server
+
 .Setup server with a static IP address
+
 .Change the Windows Server name according to your company's naming standart
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-36-54.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-39-16.png)
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-46-05.png)
