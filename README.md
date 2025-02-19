@@ -112,10 +112,13 @@ Active Directory (AD) is a directory service used to manage users, computers, an
 An Organizational Unit (OU) is a container within Active Directory that helps organize users, groups, and computers. OUs allow administrators to manage and apply Group Policies to specific subsets of objects in AD.
 
 **How to create OU, User and Groups on Active Directory**
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-54-42.png)
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-03-30.png)
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-06-31.png)
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-07-01.png)
 
 # Users in Active Directory
@@ -153,6 +156,20 @@ A Group is a collection of users that can be managed as a single unit. Instead o
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-23-38.png)
 
+# What is a Group Policy Object (GPO) in Active Directory?
+
+A Group Policy Object (GPO) is a collection of settings that control the configuration and security of computers and users within an Active Directory (AD) domain. It allows administrators to enforce rules and automate management tasks across multiple systems.
+
+# Key Functions of GPOs
+
+✅ Security Enforcement – Control password policies, account lockouts, firewall settings.
+
+✅ System Configuration – Set desktop backgrounds, disable USB access, configure network settings.
+
+✅ Software Deployment – Install, update, or restrict software applications.
+
+✅ User Restrictions – Prevent access to Control Panel, Task Manager, or removable storage.
+
 #  How to Create and Link a Group Policy Object in Active Directory
 
 A Group Policy Object (GPO) is used to enforce security settings, configurations, and restrictions on users and computers within an Active Directory (AD) environment.
@@ -172,6 +189,7 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 
 **Step 3: Edit the GPO**
+
 1.Right-click the newly created GPO and select Edit.
 
 2.The Group Policy Management Editor opens.
@@ -194,6 +212,14 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-46-51.png)
 
+GPOs can be applied at different levels in Active Directory:
+
+  **Site** – Applies to all computers and users in an AD site.
+  
+  **Domain** – Affects all users and computers in the domain.
+  
+  **Organizational Unit (OU)** – Target specific users/computers within an OU.
+  
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-58-12.png)
 
 **Step 5: Force Group Policy Update (Optional)**
