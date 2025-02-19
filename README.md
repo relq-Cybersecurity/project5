@@ -150,4 +150,62 @@ A Group is a collection of users that can be managed as a single unit. Instead o
 **Create Group and add users on it**
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-10-14.png)
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-23-38.png)
+
+#  How to Create and Link a Group Policy Object in Active Directory
+
+A Group Policy Object (GPO) is used to enforce security settings, configurations, and restrictions on users and computers within an Active Directory (AD) environment.
+
+**Step 1: Open the Group Policy Management Console (GPMC)**
+
+1.Log in to your Windows Server as an administrator.
+
+2.Press ```Win + R```, type ```gpmc.msc```, and press Enter.
+
+  .This will open the Group Policy Management Console (GPMC).
+
+
+**Step 2: Create a New GPO**
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-31-09.png)
+
+![im1]()
+**Step 3: Edit the GPO**
+1.Right-click the newly created GPO and select Edit.
+
+2.The Group Policy Management Editor opens.
+
+3.Navigate to the policy settings you want to configure.
+
+  .Computer Configuration → Policies → Windows Settings → Security Settings
+  
+  .User Configuration → Policies → Administrative Templates
+  
+4.Modify the required settings (e.g., enforce password complexity, disable USB access, set login restrictions).
+
+5.Close the Group Policy Management Editor when done.
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-38-24.png)
+
+https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-41-13.png
+**Step 4: Link the GPO to an Organizational Unit (OU)**
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-46-51.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-58-12.png)
+
+**Step 5: Force Group Policy Update (Optional)**
+
+By default, GPOs update automatically, but you can manually force an update:
+
+1.Open Command Prompt on a domain-joined computer.
+
+2.Run:
+
+```
+gpupdate /force
+```
+
+3.Restart the computer if required.
+
+
