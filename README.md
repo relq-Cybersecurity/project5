@@ -243,13 +243,21 @@ Nmap for scanning
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2013-37-21.png)
 
 Gathering information from Windows and Samba systems via the SMB protocol
+
 Enum4linux-ng for AD enumeration
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-22-45.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-24-52.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-25-38.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-21-36.png)
+
+
 CrackMapExec to test SMB shares
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2022-12-18.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2020-06-18.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2020-08-32.png)
 
 WinRM exploitation
