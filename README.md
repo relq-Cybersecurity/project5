@@ -262,5 +262,18 @@ CrackMapExec to test SMB shares
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2022-12-18.png)
 
 
+Kerberosing with Impacket
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2000-07-59.png)
+
+If there are no SPNs, create one:
+
+```
+setspn -A HTTP/testservice.mylab.local mylab\testuser
+
+```
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2001-23-02.png)
+
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2001-26-23.png)
 
 
