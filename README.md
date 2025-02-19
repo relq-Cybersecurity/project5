@@ -262,7 +262,12 @@ CrackMapExec to test SMB shares
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2022-12-18.png)
 
 
-Kerberosing with Impacket
+# Kerberosing with Impacket
+## What is Kerberos?
+Kerberos is a network authentication protocol designed to provide secure authentication for users and services over an insecure network. It was developed by MIT and is widely used in enterprise environments, especially in Microsoft Active Directory.
+
+To perform Kerberoasting, tools like Impacket’s GetUserSPNs.py are used to find Service Principal Names (SPNs) linked to service accounts.
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2000-07-59.png)
 
 If there are no SPNs, create one:
