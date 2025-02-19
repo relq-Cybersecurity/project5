@@ -170,7 +170,7 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-31-09.png)
 
-![im1]()
+
 **Step 3: Edit the GPO**
 1.Right-click the newly created GPO and select Edit.
 
@@ -188,8 +188,10 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-38-24.png)
 
-https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-41-13.png
+![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-41-13.png)
+
 **Step 4: Link the GPO to an Organizational Unit (OU)**
+
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-46-51.png)
 
 ![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-58-12.png)
