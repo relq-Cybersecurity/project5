@@ -84,28 +84,28 @@ Active Directory (AD) is a directory service used to manage users, computers, an
 ### Before proceeding
 .Must have an administrativ privilege on server
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-39-16.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2011-39-16.png)
 
 .Setup server with a static IP address
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-36-54.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2011-36-54.png)
 
 .Change the Windows Server name according to your company's naming standart
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-43-31.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2011-43-31.png)
 
 
 
 .Install the Active Domain Services role
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-46-05.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2011-46-05.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-48-22.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2013-48-22.png)
 
 .Promote the server to a Domain Controller
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2011-32-29.png)
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-01%2016-48-30.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2011-32-29.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-01%2016-48-30.png)
 
 # what is Organizational Units (OUs)
 
@@ -113,13 +113,13 @@ An Organizational Unit (OU) is a container within Active Directory that helps or
 
 **How to create OU, User and Groups on Active Directory**
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2013-54-42.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2013-54-42.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-03-30.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2014-03-30.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-06-31.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2014-06-31.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-07-01.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2014-07-01.png)
 
 # Users in Active Directory
 
@@ -152,9 +152,9 @@ A Group is a collection of users that can be managed as a single unit. Instead o
   
 **Create Group and add users on it**
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-10-14.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2014-10-14.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-17%2014-23-38.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-17%2014-23-38.png)
 
 # What is a Group Policy Object (GPO) in Active Directory?
 
@@ -185,7 +185,7 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 **Step 2: Create a New GPO**
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-31-09.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-19%2011-31-09.png)
 
 
 **Step 3: Edit the GPO**
@@ -204,13 +204,13 @@ A Group Policy Object (GPO) is used to enforce security settings, configurations
 
 5.Close the Group Policy Management Editor when done.
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-38-24.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-19%2011-38-24.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-41-13.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-19%2011-41-13.png)
 
 **Step 4: Link the GPO to an Organizational Unit (OU)**
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-46-51.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-19%2011-46-51.png)
 
 GPOs can be applied at different levels in Active Directory:
 
@@ -220,7 +220,7 @@ GPOs can be applied at different levels in Active Directory:
   
   **Organizational Unit (OU)** – Target specific users/computers within an OU.
   
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-19%2011-58-12.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-19%2011-58-12.png)
 
 **Step 5: Force Group Policy Update (Optional)**
 
@@ -240,26 +240,26 @@ gpupdate /force
 
 Nmap for scanning
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2013-37-21.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-08%2013-37-21.png)
 
 Gathering information from Windows and Samba systems via the SMB protocol
 
 Enum4linux-ng for AD enumeration
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-21-36.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-08%2015-21-36.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-22-45.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-08%2015-22-45.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-24-52.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-08%2015-24-52.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-08%2015-25-38.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-08%2015-25-38.png)
 
 
 
 
 CrackMapExec to test SMB shares
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-10%2022-12-18.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-10%2022-12-18.png)
 
 
 # Kerberosing with Impacket
@@ -268,7 +268,7 @@ Kerberos is a network authentication protocol designed to provide secure authent
 
 To perform Kerberoasting, tools like Impacket’s GetUserSPNs.py are used to find Service Principal Names (SPNs) linked to service accounts.
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2000-07-59.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-20%2000-07-59.png)
 
 If there are no SPNs, create one:
 
@@ -277,8 +277,8 @@ setspn -A HTTP/testservice.mylab.local mylab\testuser
 
 ```
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2001-23-02.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-20%2001-23-02.png)
 
-![im1](https://github.com/Sonakhach/project5/blob/main/Screenshot%20from%202025-02-20%2001-26-23.png)
+![im1](https://github.com/Sonakhach/project5/blob/main/img/Screenshot%20from%202025-02-20%2001-26-23.png)
 
 
